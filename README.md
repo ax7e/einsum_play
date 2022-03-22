@@ -1,6 +1,6 @@
 # H3_play
 - We tested several methods to optimize einsum
-- The raw code resides in H3.
+- The raw code resides in H3.py
 # Methods Include:
 - opt_einsum with cupy as backend
 - cutensor-einsum
